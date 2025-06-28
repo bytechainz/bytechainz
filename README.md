@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![bytechainz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bytechainz&theme=dracula&hide_border=true)
 -->
 
 
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
 ![bytechainz's Stats](https://github-readme-stats.vercel.app/api?username=bytechainz&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![bytechainz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bytechainz&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-![bytechainz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bytechainz&theme=dracula&hide_border=true)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytechainz" alt="bytechainz" /></a> </p>
